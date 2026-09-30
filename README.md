@@ -23,7 +23,7 @@ The Simple RNN (Recurrent Neural Network) emerged as the best-performing model, 
 
 **Core Performance Metrics**
 The model's performance was measured on a completely unseen test dataset:
-- MAE (Mean Absolute Error)=241.66 Bikes,"On average, the model's prediction is off by only 242 bikes."
+- MAE (Mean Absolute Error) = 241.66 Bikes,"On average, the model's prediction is off by only 242 bikes."
 - R2 Score=0.6849,The model explains approximately 68.5% of the total variability in bike rental demand.
 
 # 🚀 Deployment & MLOps Pipeline
